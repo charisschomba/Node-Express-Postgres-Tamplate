@@ -1,0 +1,3 @@
+server/sequelize/migrations
+server/sequelize/seeders
+server/sequelize/models
